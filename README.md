@@ -2,7 +2,7 @@
 You are free to modify code. This plugin is currently in use on my server; you can join and see how it performs.
 
 > [!TIP]
-> Some things can be improved, such as setting DEFAULT_MAP automatically and managing cooldowns differently. But I'll let you handle those tasks! ❤️
+> Some things can be improved, such as setting **DEFAULT_MAP** automatically and managing cooldowns differently. But I'll let you handle those tasks! ❤️
 
 ## Features
 * `!awp` / `sm_awp` - call an awp vote (restrict / unrestrict)
