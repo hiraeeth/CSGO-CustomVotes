@@ -12,7 +12,7 @@ You are free to modify code. This plugin is currently in use on my server; you c
 ## Customization
 * You can change basic options at the beginning of the code.
 * Cooldowns are in minutes.
-* Sourcemod colors are used: [View colors](https://forums.alliedmods.net/image-proxy/90369c9733faff162f9797d8321253f7222d04c8/687474703a2f2f692e696d6775722e636f6d2f713277623843752e706e67)
+* Sourcemod colors are used: [View colors](https://i.imgur.com/q2wb8Cu.png)
 ```
 #define AWP_COOLDOWN 3
 #define CHANGEMAP_COOLDOWN 6
