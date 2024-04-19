@@ -1,8 +1,8 @@
 # CS:GO Custom Votes (1.0.0)
 You are free to modify code. This plugin is currently in use on my server; you can join and see how it performs.
 
-> Logic can be enhanced; DEFAULT_MAP can be replaced with none and set automatically; 
-> cooldowns can be managed differently. However, I am leaving these tasks to whoever is reading this.
+> [!TIP]
+> Some things can be improved, such as setting DEFAULT_MAP automatically and managing cooldowns differently. But I'll let you handle those tasks! ❤️
 
 ## Features
 * `!awp` / `sm_awp` - call an awp vote (restrict / unrestrict)
