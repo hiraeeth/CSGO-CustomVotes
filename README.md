@@ -6,5 +6,5 @@ You are free to modify code. This plugin is currently in use on my server; you c
 
 ## Features
 * `!awp` / `sm_awp` - call an awp vote (restrict / unrestrict)
-* `!changemap` / `sm_changemap` - call an changemap vote (last map and the current map are removed from the cycle)
+* `!changemap` / `sm_changemap` - call a changemap vote (last map and the current map are removed from the cycle)
 * `!resetcooldowns` / `sm_resetcooldowns` - reset all cooldowns (generic_admin flag required)
