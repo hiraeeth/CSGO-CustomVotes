@@ -19,3 +19,6 @@ You are free to modify code. This plugin is currently in use on my server; you c
 #define DEFAULT_MAP "de_mirage" 
 #define PREFIX "\x0BALYXHVH \x08▪"
 ```
+
+## Requirements
+You should install [Custom Votes by KoNLiG](https://forums.alliedmods.net/showthread.php?t=333839). I've already added it to `plugins/customvotes.smx`. You can find the include file at `scripting/include/customvotes.inc`.
