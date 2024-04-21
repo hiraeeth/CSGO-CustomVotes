@@ -73,6 +73,7 @@ public void OnMapStart()
 {
 	for (int i = 0; i < sizeof(cooldowns); i++)
 		cooldowns[i].last_call = 0;
+	cooldowns[0].optional = false; // reset awp restriction
 }
 
 Action Command_ResetCooldowns(int client, int args) {
