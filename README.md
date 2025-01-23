@@ -23,3 +23,5 @@ You are free to modify code. This plugin is currently in use on my server; you c
 ## Requirements
 * You should install [Custom Votes by KoNLiG](https://forums.alliedmods.net/showthread.php?t=333839). I've already added it to `plugins/customvotes.smx`. You can find the include file at `scripting/include/customvotes.inc`.
 * Additional components (while my logic relies on them, you have the flexibility to adjust their necessity): [Weapon Restrict by Dr!fter](https://forums.alliedmods.net/showthread.php?p=950174) and the default SourceMod "votemap".
+
+## You can test this plugin on our servers! Take a look: alyx.ro/servers
