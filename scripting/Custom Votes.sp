@@ -1,16 +1,18 @@
 /**
- * 
- * Alyx Network Custom Votes
- * Create custom votes for your community.
  *
- * Required: https://forums.alliedmods.net/showthread.php?t=333839
- * 
- * Logic can be enhanced; DEFAULT_MAP can be replaced with none and set automatically; 
- * cooldowns can be managed differently. However, I am leaving these tasks to whoever is reading this.
- * 
+ * Alyx Network - CS:GO Custom Votes
+ * A plugin for server admins in Counter-Strike: Global Offensive which allows creating custom votes.
+ *
+ * Features:
+ * - Defining a DEFAULT_MAP.
+ * - Cooldowns
+ * - Code friendly (you can edit it with any AI)
+ *
  * My discord: dragos112
- * 
-*/
+ * Website: https://alyx.ro/
+ * Repository: https://github.com/Alyx-Network/CSGO-Essentials
+ *
+ */
 
 #include <sdkhooks>
 #include <sdktools>
